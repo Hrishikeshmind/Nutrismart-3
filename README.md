@@ -32,9 +32,7 @@ NutriSmart is an advanced meal planning application that leverages artificial in
 
 Create a `.env` file in the root directory with the following variables:
 
-```env
-OPENAI_API_KEY=your_openai_api_key
-```
+
 
 ## Tech Stack
 
