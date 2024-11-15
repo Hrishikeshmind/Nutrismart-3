@@ -15,15 +15,12 @@ NutriSmart is an advanced meal planning application that leverages artificial in
 ## Getting Started
 
 1. Clone the repository
-2. Create a `.env` file with your OpenAI API key:
-   ```
-   OPENAI_API_KEY=your_api_key_here
-   ```
-3. Install dependencies:
+
+2. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
